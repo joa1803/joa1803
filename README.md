@@ -1,16 +1,15 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 🚲
 
-<!--
-**joa1803/joa1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu sou o João vitor 
 
-Here are some ideas to get you started:
+- Eu estudo [ALURA](https://www.alura.com.br)
+- Ultilizo este espaço apenas para estudar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### você pode entrar em contato comigo 📫
+
+joao.pedroso.jesus@escola.pr.gov.br
+
+🏁@jv_pedroso_
+
+![](https://media.tenor.com/pCB97KKlCnUAAAAM/gta-cj.gif)
